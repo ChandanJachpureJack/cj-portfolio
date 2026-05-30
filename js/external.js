@@ -46,53 +46,53 @@ const expData = [
   {
     title: 'Avalon Information Systems',
     bullets: [
-      'Led end-to-end UI/UX design for enterprise-level web platforms across multiple industries.',
-      'Designed scalable design systems, improving UI consistency — resulting in <span class="exp-metric">30% faster dev cycles.</span>',
-      'Increased user engagement by <span class="exp-metric">25–30%</span> through user-centered design improvements.',
-      'Reduced website load times by <span class="exp-metric">30%</span> through performance optimization.',
-      'Integrated AI tools (ChatGPT, Copilot, Cursor) boosting team productivity by <span class="exp-metric">30%.</span>',
-      'Mentored a cross-functional team of designers and developers.'
+      'Led end-to-end UI development for government & enterprise platforms — translated high-fidelity Figma designs into responsive, production-ready React & HTML/CSS interfaces.',
+      'Designed and scaled a company-wide design system across NCERT, DataForAll, GAVI, and CPD MTNDP — reduced page load times by <span class="exp-metric">30%.</span>',
+      'Converted Figma designs to React/Next.js components using Cursor & GitHub Copilot — accelerating feature delivery by <span class="exp-metric">30%.</span>',
+      'Increased user engagement by <span class="exp-metric">25–30%</span> through intuitive, user-focused interface redesigns.',
+      'Integrated Highcharts & custom JS data visualisations for government dashboards (DataForAll multi-country platforms).',
+      'Mentored junior designers & developers, improving team quality and delivery timelines.'
     ]
   },
   {
     title: 'Codenote IT Solutions',
     bullets: [
-      'Delivered user-centric UI/UX solutions aligned with business goals for diverse clients.',
-      'Designed wireframes, prototypes, and branding assets using Figma and Adobe tools.',
-      'Developed responsive web interfaces using HTML, CSS, and JavaScript.',
-      'Improved usability and accessibility across multiple web applications.',
-      'Reduced development time by <span class="exp-metric">20–25%</span> through efficient design workflows.',
-      'Collaborated with stakeholders and clients to define design strategies.'
+      'Designed user flows, wireframes & interactive prototypes for web applications — improving usability and user experience across client projects.',
+      'Developed responsive UIs using HTML5, CSS3/SCSS, JavaScript & React — enhancing scalability and maintainability.',
+      'Built reusable UI component libraries aligned with design systems to ensure consistency across multiple products.',
+      'Reduced development time by <span class="exp-metric">20–25%</span> by optimising design-to-development handoff workflows and documentation.',
+      'Improved accessibility and WCAG compliance through structured UI/UX enhancements.',
+      'Collaborated with stakeholders to define design strategies aligned with business goals.'
     ]
   },
   {
     title: 'Advantal Technologies',
     bullets: [
-      'Designed and developed responsive web interfaces and admin dashboards.',
-      'Created wireframes, mockups, and prototypes for complex enterprise applications.',
-      'Improved UI consistency and user experience across multiple platforms.',
-      'Delivered high-quality branding and marketing design assets.',
-      'Worked closely with development teams for seamless implementation.'
+      'Designed dashboards & admin interfaces for enterprise applications — simplifying complex workflows and improving user efficiency.',
+      'Worked on Angular-based applications ensuring consistent UI and seamless user experience across platforms.',
+      'Created reusable UI components & design patterns to support scalable product development.',
+      'Collaborated with development teams to ensure accurate, pixel-perfect implementation of designs.',
+      'Delivered high-quality branding and visual design assets aligned with project requirements.'
     ]
   },
   {
     title: 'Throughout Technologies',
     bullets: [
-      'Delivered user-centric UI/UX solutions across multiple client engagements.',
-      'Designed wireframes, prototypes, and branding assets using Figma and Adobe tools.',
-      'Developed responsive web interfaces with HTML, CSS, and JavaScript.',
-      'Improved usability and accessibility across multiple web applications.',
-      'Reduced development time by <span class="exp-metric">20–25%</span> through efficient workflows.'
+      'Designed wireframes, prototypes & visual interfaces for web applications with focus on usability and clarity.',
+      'Developed responsive UIs using HTML, CSS & JavaScript — improved user experience through structured UI enhancements.',
+      'Collaborated with cross-functional teams to deliver user-centered design solutions on time.',
+      'Reduced development time by <span class="exp-metric">20–25%</span> through efficient design-to-development workflows.',
+      'Delivered consistent, high-quality UI across multiple client projects.'
     ]
   },
   {
-    title: 'Tuosi Technologies (First Role)',
+    title: 'Tuosi Technologies',
     bullets: [
-      'Kicked off professional career delivering user-centric UI/UX solutions.',
-      'Designed wireframes, prototypes, and branding assets from scratch.',
-      'Developed responsive web interfaces using HTML, CSS, and JavaScript.',
-      'Improved usability and accessibility across web applications.',
-      'Built strong foundation in design-to-development workflows.'
+      'Developed responsive web interfaces using HTML, CSS & JavaScript for multiple client projects.',
+      'Designed visual assets, layouts & branding materials aligned with project requirements.',
+      'Built strong foundation in design-to-development workflows — self-taught, zero guidance.',
+      'Delivered consistent UI across diverse client projects from day one.',
+      'Established core skills in HTML, CSS, JavaScript and visual design that became the base of 10+ year career.'
     ]
   }
 ];
