@@ -46,53 +46,50 @@ const expData = [
   {
     title: 'Avalon Information Systems',
     bullets: [
-      'Led end-to-end UI development for government & enterprise platforms — translated high-fidelity Figma designs into responsive, production-ready React & HTML/CSS interfaces.',
-      'Designed and scaled a company-wide design system across NCERT, DataForAll, GAVI, and CPD MTNDP — reduced page load times by <span class="exp-metric">30%.</span>',
-      'Converted Figma designs to React/Next.js components using Cursor & GitHub Copilot — accelerating feature delivery by <span class="exp-metric">30%.</span>',
-      'Increased user engagement by <span class="exp-metric">25–30%</span> through intuitive, user-focused interface redesigns.',
-      'Integrated Highcharts & custom JS data visualisations for government dashboards (DataForAll multi-country platforms).',
-      'Mentored junior designers & developers, improving team quality and delivery timelines.'
+      'Led end-to-end product design and UI engineering for government, enterprise, and international development platforms, translating complex business requirements into intuitive user experiences and scalable frontend solutions.',
+      'Designed user flows, wireframes, interactive prototypes, and design systems in Figma, ensuring consistency, accessibility, and seamless user experiences across multiple products.',
+      'Converted high-fidelity Figma designs into production-ready HTML5, CSS3, SCSS, JavaScript, and React-based interfaces with a strong focus on responsiveness, performance, and cross-browser compatibility.',
+      'Delivered key contributions to large-scale platforms including NCERT PARAKH (Government of India), DataForAll, GAVI, and other international initiatives serving millions of users across multiple regions.',
+      'Developed reusable UI components and modern frontend interfaces, improving development efficiency and reducing repetitive implementation effort across projects.',
+      'Built interactive dashboards and data visualizations using Highcharts and custom JavaScript solutions for data-driven reporting and decision-making.',
+      'Collaborated with product managers, developers, QA teams, and stakeholders to streamline design-to-development workflows and improve delivery quality.',
+      'Leveraged AI-assisted workflows using Cursor, GitHub Copilot, Claude, and ChatGPT to accelerate design exploration, frontend development, debugging, and documentation.'
     ]
   },
   {
     title: 'Codenote IT Solutions',
     bullets: [
-      'Designed user flows, wireframes & interactive prototypes for web applications — improving usability and user experience across client projects.',
-      'Developed responsive UIs using HTML5, CSS3/SCSS, JavaScript & React — enhancing scalability and maintainability.',
-      'Built reusable UI component libraries aligned with design systems to ensure consistency across multiple products.',
-      'Reduced development time by <span class="exp-metric">20–25%</span> by optimising design-to-development handoff workflows and documentation.',
-      'Improved accessibility and WCAG compliance through structured UI/UX enhancements.',
-      'Collaborated with stakeholders to define design strategies aligned with business goals.'
+      'Designed end-to-end user experiences for 10+ web applications, creating user flows, wireframes, high-fidelity prototypes, and scalable design systems aligned with business and user needs.',
+      'Developed responsive and cross-browser compatible frontend interfaces using HTML5, CSS3, SCSS, and JavaScript, ensuring consistent user experiences across devices and platforms.',
+      'Built reusable UI components and component libraries, improving design consistency, implementation efficiency, and long-term maintainability across multiple products.',
+      'Collaborated closely with developers and stakeholders to bridge the gap between design and engineering, streamlining design-to-development handoffs and reducing implementation effort.',
+      'Improved WCAG 2.1 accessibility compliance through structured UI audits, accessibility-focused design enhancements, and frontend implementation best practices.',
+      'Reduced development time by 20–25% through optimized design specifications, component documentation, and reusable UI patterns.'
     ]
   },
   {
     title: 'Advantal Technologies',
     bullets: [
-      'Designed dashboards & admin interfaces for enterprise applications — simplifying complex workflows and improving user efficiency.',
-      'Worked on Angular-based applications ensuring consistent UI and seamless user experience across platforms.',
-      'Created reusable UI components & design patterns to support scalable product development.',
-      'Collaborated with development teams to ensure accurate, pixel-perfect implementation of designs.',
-      'Delivered high-quality branding and visual design assets aligned with project requirements.'
+      'Designed enterprise dashboards, admin panels, and web application interfaces focused on usability, efficiency, and scalability.',
+      'Created design systems, reusable UI patterns, and component libraries to ensure consistency across multiple products and platforms.',
+      'Collaborated closely with development teams to translate business requirements and design concepts into responsive, user-friendly interfaces.',
+      'Contributed to Angular-based enterprise applications by defining UI standards, interaction patterns, and visual design guidelines.'
     ]
   },
   {
     title: 'Throughout Technologies',
     bullets: [
-      'Designed wireframes, prototypes & visual interfaces for web applications with focus on usability and clarity.',
-      'Developed responsive UIs using HTML, CSS & JavaScript — improved user experience through structured UI enhancements.',
-      'Collaborated with cross-functional teams to deliver user-centered design solutions on time.',
-      'Reduced development time by <span class="exp-metric">20–25%</span> through efficient design-to-development workflows.',
-      'Delivered consistent, high-quality UI across multiple client projects.'
+      'Designed wireframes, interactive prototypes, and user interfaces for web applications with a strong focus on usability and conversion optimization.',
+      'Developed responsive frontend interfaces using HTML5, CSS3, and JavaScript, ensuring consistent cross-browser and cross-device experiences.',
+      'Worked closely with stakeholders and development teams to deliver user-centered digital solutions across multiple client projects.'
     ]
   },
   {
     title: 'Tuosi Technologies',
     bullets: [
-      'Developed responsive web interfaces using HTML, CSS & JavaScript for multiple client projects.',
-      'Designed visual assets, layouts & branding materials aligned with project requirements.',
-      'Built strong foundation in design-to-development workflows — self-taught, zero guidance.',
-      'Delivered consistent UI across diverse client projects from day one.',
-      'Established core skills in HTML, CSS, JavaScript and visual design that became the base of 10+ year career.'
+      'Designed and developed responsive web interfaces using HTML, CSS, and JavaScript for a variety of client projects.',
+      'Created visual designs, UI layouts, and branding assets aligned with business goals and user requirements.',
+      'Collaborated with project teams to deliver high-quality digital experiences while maintaining design consistency and implementation standards.'
     ]
   }
 ];
